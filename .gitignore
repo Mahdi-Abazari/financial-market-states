@@ -1,0 +1,24 @@
+# Original market data and generated pipeline results
+munik/date set/
+munik/analysis/output*/
+munik/analysis/notebook_numba_verified/
+munik/analysis/notebook_rolling_validation/
+munik/analysis/notebook_paper_v2/rolling_daily/
+munik/analysis/notebook_paper_v2/*.npz
+munik/analysis/notebook_paper_v2/*.svg
+
+# Third-party reference articles and local render files
+munik/similar articals/
+munik/Proposal_Presentation_403103265.pdf
+tmp/
+
+# Caches and binary arrays
+.ipynb_checkpoints/
+/market_states_paper.ipynb
+/munik/analysis/seminar_simulation_notebook.ipynb
+__pycache__/
+*.pyc
+*.npy
+*.npz
+*.mat
+._*

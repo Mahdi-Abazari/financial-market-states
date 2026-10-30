@@ -1,0 +1,17 @@
+{
+  "windows": 4733,
+  "stocks": 296,
+  "distance_shape": [
+    4733,
+    4733
+  ],
+  "first_return_label": "1992-03-20",
+  "last_return_label": "2010-12-30",
+  "feature_rows_done": 4733,
+  "distance_rows_done": 4733,
+  "smallest_lambda": 22.129803980552843,
+  "largest_lambda": 211.8306466283023,
+  "largest_matrix_distance": 0.6596664610730955,
+  "diagonal_error": 0.0,
+  "note": "Full daily resolution, stride=1, float64. Daily-data zoom is not the intraday TAQ panel."
+}

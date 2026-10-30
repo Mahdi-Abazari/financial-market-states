@@ -1,0 +1,4050 @@
+{
+  "0": {
+    "node": 0,
+    "members": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "size": 114,
+    "radius": 0.16970845722253985,
+    "initial_pairs": 6441,
+    "unique_steps": 3839,
+    "best_squared_distance": 0.020611763452819874,
+    "initial_pair": [
+      0,
+      3
+    ],
+    "seconds": 69.49735070001043,
+    "children": [
+      1,
+      2
+    ]
+  },
+  "1": {
+    "node": 1,
+    "members": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      60,
+      61,
+      69,
+      70,
+      71,
+      72,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      88,
+      89,
+      90
+    ],
+    "size": 74,
+    "radius": 0.13982883435620136,
+    "initial_pairs": 2701,
+    "unique_steps": 3295,
+    "best_squared_distance": 0.017422873602693074,
+    "initial_pair": [
+      0,
+      5
+    ],
+    "seconds": 37.081821999992826,
+    "children": [
+      3,
+      4
+    ]
+  },
+  "2": {
+    "node": 2,
+    "members": [
+      34,
+      55,
+      58,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      73,
+      74,
+      78,
+      79,
+      82,
+      86,
+      87,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "size": 40,
+    "radius": 0.14483769463316806,
+    "initial_pairs": 780,
+    "unique_steps": 792,
+    "best_squared_distance": 0.01688806855632829,
+    "initial_pair": [
+      0,
+      27
+    ],
+    "seconds": 5.1477247000002535,
+    "children": [
+      5,
+      6
+    ]
+  },
+  "3": {
+    "node": 3,
+    "members": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      28,
+      29,
+      30,
+      32,
+      37,
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      57,
+      72
+    ],
+    "size": 47,
+    "radius": 0.13294837504671883,
+    "initial_pairs": 1081,
+    "unique_steps": 1309,
+    "best_squared_distance": 0.016736410872435128,
+    "initial_pair": [
+      10,
+      32
+    ],
+    "seconds": 9.388433500003885,
+    "children": [
+      7,
+      8
+    ]
+  },
+  "4": {
+    "node": 4,
+    "members": [
+      27,
+      31,
+      33,
+      35,
+      36,
+      39,
+      40,
+      46,
+      49,
+      56,
+      59,
+      60,
+      61,
+      69,
+      70,
+      71,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      88,
+      89,
+      90
+    ],
+    "size": 27,
+    "radius": 0.12977638544738232,
+    "initial_pairs": 351,
+    "unique_steps": 276,
+    "best_squared_distance": 0.015548155414375169,
+    "initial_pair": [
+      1,
+      12
+    ],
+    "seconds": 1.1878706000134116,
+    "children": [
+      9,
+      10
+    ]
+  },
+  "5": {
+    "node": 5,
+    "members": [
+      34,
+      55,
+      58,
+      62,
+      64,
+      65,
+      66,
+      67,
+      68,
+      73,
+      74,
+      78,
+      79,
+      82,
+      86,
+      87,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      112,
+      113
+    ],
+    "size": 33,
+    "radius": 0.13243241432165131,
+    "initial_pairs": 528,
+    "unique_steps": 711,
+    "best_squared_distance": 0.015744751740454154,
+    "initial_pair": [
+      6,
+      20
+    ],
+    "seconds": 3.360959300000104,
+    "children": [
+      11,
+      12
+    ]
+  },
+  "6": {
+    "node": 6,
+    "members": [
+      63,
+      100,
+      101,
+      102,
+      103,
+      110,
+      111
+    ],
+    "size": 7,
+    "radius": 0.1120790623202796,
+    "initial_pairs": 21,
+    "unique_steps": 8,
+    "best_squared_distance": 0.007506727721752107,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.033020000002579764,
+    "children": [
+      13,
+      14
+    ]
+  },
+  "7": {
+    "node": 7,
+    "members": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      28,
+      47,
+      50,
+      51,
+      52,
+      54
+    ],
+    "size": 23,
+    "radius": 0.1305728519789095,
+    "initial_pairs": 253,
+    "unique_steps": 169,
+    "best_squared_distance": 0.015709964697050136,
+    "initial_pair": [
+      1,
+      21
+    ],
+    "seconds": 0.6042950999981258,
+    "children": [
+      15,
+      16
+    ]
+  },
+  "8": {
+    "node": 8,
+    "members": [
+      1,
+      4,
+      6,
+      13,
+      16,
+      17,
+      20,
+      24,
+      25,
+      26,
+      29,
+      30,
+      32,
+      37,
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      48,
+      53,
+      57,
+      72
+    ],
+    "size": 24,
+    "radius": 0.12784626880337902,
+    "initial_pairs": 276,
+    "unique_steps": 233,
+    "best_squared_distance": 0.015302443341791159,
+    "initial_pair": [
+      3,
+      23
+    ],
+    "seconds": 0.9166123000031803,
+    "children": [
+      17,
+      18
+    ]
+  },
+  "9": {
+    "node": 9,
+    "members": [
+      27,
+      31,
+      33,
+      35,
+      36,
+      39,
+      40,
+      46,
+      49
+    ],
+    "size": 9,
+    "radius": 0.12325297945155476,
+    "initial_pairs": 36,
+    "unique_steps": 18,
+    "best_squared_distance": 0.012719195377915308,
+    "initial_pair": [
+      0,
+      7
+    ],
+    "seconds": 0.04869959999632556,
+    "children": [
+      19,
+      20
+    ]
+  },
+  "10": {
+    "node": 10,
+    "members": [
+      56,
+      59,
+      60,
+      61,
+      69,
+      70,
+      71,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      88,
+      89,
+      90
+    ],
+    "size": 18,
+    "radius": 0.1250925101570456,
+    "initial_pairs": 153,
+    "unique_steps": 98,
+    "best_squared_distance": 0.014084614629980107,
+    "initial_pair": [
+      0,
+      4
+    ],
+    "seconds": 0.27269509999314323,
+    "children": [
+      21,
+      22
+    ]
+  },
+  "11": {
+    "node": 11,
+    "members": [
+      34,
+      55,
+      58,
+      62,
+      65,
+      66,
+      67,
+      68,
+      73,
+      74,
+      78,
+      79,
+      82,
+      87,
+      91,
+      98,
+      99,
+      109
+    ],
+    "size": 18,
+    "radius": 0.13168119993999305,
+    "initial_pairs": 153,
+    "unique_steps": 110,
+    "best_squared_distance": 0.015079708622620515,
+    "initial_pair": [
+      3,
+      6
+    ],
+    "seconds": 0.3747841000003973,
+    "children": [
+      23,
+      24
+    ]
+  },
+  "12": {
+    "node": 12,
+    "members": [
+      64,
+      86,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      104,
+      105,
+      106,
+      107,
+      108,
+      112,
+      113
+    ],
+    "size": 15,
+    "radius": 0.11654357167896409,
+    "initial_pairs": 105,
+    "unique_steps": 77,
+    "best_squared_distance": 0.011750157845924163,
+    "initial_pair": [
+      0,
+      8
+    ],
+    "seconds": 0.19971220000297762,
+    "children": [
+      25,
+      26
+    ]
+  },
+  "13": {
+    "node": 13,
+    "members": [
+      63,
+      102,
+      103
+    ],
+    "size": 3,
+    "radius": 0.09093644288646345,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.002911151621527549,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.022732700002961792,
+    "children": [
+      27,
+      28
+    ]
+  },
+  "14": {
+    "node": 14,
+    "members": [
+      100,
+      101,
+      110,
+      111
+    ],
+    "size": 4,
+    "radius": 0.08263672613456793,
+    "initial_pairs": 6,
+    "unique_steps": 4,
+    "best_squared_distance": 0.004158888696395398,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.023418900003889576,
+    "children": [
+      29,
+      30
+    ]
+  },
+  "15": {
+    "node": 15,
+    "members": [
+      0,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      28
+    ],
+    "size": 18,
+    "radius": 0.12691617496359436,
+    "initial_pairs": 153,
+    "unique_steps": 118,
+    "best_squared_distance": 0.01480696366296438,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.38639790000161156,
+    "children": [
+      31,
+      32
+    ]
+  },
+  "16": {
+    "node": 16,
+    "members": [
+      47,
+      50,
+      51,
+      52,
+      54
+    ],
+    "size": 5,
+    "radius": 0.11883288450788129,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.010074749423062638,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.04455910000251606,
+    "children": [
+      33,
+      34
+    ]
+  },
+  "17": {
+    "node": 17,
+    "members": [
+      1,
+      4,
+      6,
+      13,
+      16,
+      17,
+      20,
+      24,
+      25,
+      26,
+      29,
+      30,
+      32,
+      37,
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      48
+    ],
+    "size": 21,
+    "radius": 0.1259963240988109,
+    "initial_pairs": 210,
+    "unique_steps": 193,
+    "best_squared_distance": 0.014791478318142523,
+    "initial_pair": [
+      9,
+      18
+    ],
+    "seconds": 0.6822776000044541,
+    "children": [
+      35,
+      36
+    ]
+  },
+  "18": {
+    "node": 18,
+    "members": [
+      53,
+      57,
+      72
+    ],
+    "size": 3,
+    "radius": 0.10598841189514964,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005314525179143502,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.03019720000156667,
+    "children": [
+      37,
+      38
+    ]
+  },
+  "19": {
+    "node": 19,
+    "members": [
+      27,
+      31,
+      33,
+      35,
+      36,
+      39,
+      40
+    ],
+    "size": 7,
+    "radius": 0.11772282458796782,
+    "initial_pairs": 21,
+    "unique_steps": 9,
+    "best_squared_distance": 0.010887996617053535,
+    "initial_pair": [
+      0,
+      5
+    ],
+    "seconds": 0.030506600000080653,
+    "children": [
+      39,
+      40
+    ]
+  },
+  "20": {
+    "node": 20,
+    "members": [
+      46,
+      49
+    ],
+    "size": 2,
+    "radius": 0.09285679490151948,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.015524799993727356,
+    "children": [
+      41,
+      42
+    ]
+  },
+  "21": {
+    "node": 21,
+    "members": [
+      56,
+      59,
+      60,
+      84,
+      88
+    ],
+    "size": 5,
+    "radius": 0.11747863346208116,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.009855039057920173,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021813100000144914,
+    "children": [
+      43,
+      44
+    ]
+  },
+  "22": {
+    "node": 22,
+    "members": [
+      61,
+      69,
+      70,
+      71,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      85,
+      89,
+      90
+    ],
+    "size": 13,
+    "radius": 0.11906018973664939,
+    "initial_pairs": 78,
+    "unique_steps": 58,
+    "best_squared_distance": 0.012577679684980062,
+    "initial_pair": [
+      2,
+      6
+    ],
+    "seconds": 0.08239359999424778,
+    "children": [
+      45,
+      46
+    ]
+  },
+  "23": {
+    "node": 23,
+    "members": [
+      34,
+      55,
+      58,
+      62,
+      65,
+      68,
+      73,
+      74,
+      78,
+      79,
+      82,
+      87,
+      91,
+      109
+    ],
+    "size": 14,
+    "radius": 0.124818529844366,
+    "initial_pairs": 91,
+    "unique_steps": 56,
+    "best_squared_distance": 0.01338699313450053,
+    "initial_pair": [
+      1,
+      8
+    ],
+    "seconds": 0.16761780000524595,
+    "children": [
+      47,
+      48
+    ]
+  },
+  "24": {
+    "node": 24,
+    "members": [
+      66,
+      67,
+      98,
+      99
+    ],
+    "size": 4,
+    "radius": 0.11418179723326427,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.006939959555216368,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.0236159000050975,
+    "children": [
+      49,
+      50
+    ]
+  },
+  "25": {
+    "node": 25,
+    "members": [
+      64,
+      86,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "size": 8,
+    "radius": 0.10853203712614432,
+    "initial_pairs": 28,
+    "unique_steps": 19,
+    "best_squared_distance": 0.009656219323829679,
+    "initial_pair": [
+      2,
+      3
+    ],
+    "seconds": 0.05572089999623131,
+    "children": [
+      51,
+      52
+    ]
+  },
+  "26": {
+    "node": 26,
+    "members": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      112,
+      113
+    ],
+    "size": 7,
+    "radius": 0.10809602273789316,
+    "initial_pairs": 21,
+    "unique_steps": 11,
+    "best_squared_distance": 0.008993056832168667,
+    "initial_pair": [
+      0,
+      4
+    ],
+    "seconds": 0.05438509999657981,
+    "children": [
+      53,
+      54
+    ]
+  },
+  "27": {
+    "node": 27,
+    "members": [
+      63
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "28": {
+    "node": 28,
+    "members": [
+      102,
+      103
+    ],
+    "size": 2,
+    "radius": 0.06608121845344048,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021486300000105985,
+    "children": [
+      55,
+      56
+    ]
+  },
+  "29": {
+    "node": 29,
+    "members": [
+      100,
+      101,
+      111
+    ],
+    "size": 3,
+    "radius": 0.0744184643339794,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.002511650728044879,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02951779999420978,
+    "children": [
+      57,
+      58
+    ]
+  },
+  "30": {
+    "node": 30,
+    "members": [
+      110
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "31": {
+    "node": 31,
+    "members": [
+      0
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "32": {
+    "node": 32,
+    "members": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      18,
+      19,
+      21,
+      22,
+      23,
+      28
+    ],
+    "size": 17,
+    "radius": 0.1251981829975244,
+    "initial_pairs": 136,
+    "unique_steps": 110,
+    "best_squared_distance": 0.014381270515912106,
+    "initial_pair": [
+      0,
+      6
+    ],
+    "seconds": 0.3138128999999026,
+    "children": [
+      59,
+      60
+    ]
+  },
+  "33": {
+    "node": 33,
+    "members": [
+      47,
+      51
+    ],
+    "size": 2,
+    "radius": 0.08949676349376054,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.024580400000559166,
+    "children": [
+      61,
+      62
+    ]
+  },
+  "34": {
+    "node": 34,
+    "members": [
+      50,
+      52,
+      54
+    ],
+    "size": 3,
+    "radius": 0.10698160901781244,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005370944644888989,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.024941499999840744,
+    "children": [
+      63,
+      64
+    ]
+  },
+  "35": {
+    "node": 35,
+    "members": [
+      1,
+      4,
+      6,
+      13,
+      16,
+      20,
+      24,
+      25,
+      26,
+      29,
+      30,
+      32,
+      37
+    ],
+    "size": 13,
+    "radius": 0.12284324213855963,
+    "initial_pairs": 78,
+    "unique_steps": 56,
+    "best_squared_distance": 0.0135355086035402,
+    "initial_pair": [
+      0,
+      10
+    ],
+    "seconds": 0.1318881000042893,
+    "children": [
+      65,
+      66
+    ]
+  },
+  "36": {
+    "node": 36,
+    "members": [
+      17,
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      48
+    ],
+    "size": 8,
+    "radius": 0.1195227811533948,
+    "initial_pairs": 28,
+    "unique_steps": 16,
+    "best_squared_distance": 0.012050282561188555,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.08366139999998268,
+    "children": [
+      67,
+      68
+    ]
+  },
+  "37": {
+    "node": 37,
+    "members": [
+      53
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "38": {
+    "node": 38,
+    "members": [
+      57,
+      72
+    ],
+    "size": 2,
+    "radius": 0.08928486864365792,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.015623100000084378,
+    "children": [
+      69,
+      70
+    ]
+  },
+  "39": {
+    "node": 39,
+    "members": [
+      27,
+      31,
+      33,
+      35,
+      36
+    ],
+    "size": 5,
+    "radius": 0.11030656381911404,
+    "initial_pairs": 10,
+    "unique_steps": 4,
+    "best_squared_distance": 0.00891365557275764,
+    "initial_pair": [
+      0,
+      4
+    ],
+    "seconds": 0.02039189999049995,
+    "children": [
+      71,
+      72
+    ]
+  },
+  "40": {
+    "node": 40,
+    "members": [
+      39,
+      40
+    ],
+    "size": 2,
+    "radius": 0.08757325427433675,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.013725199998589233,
+    "children": [
+      73,
+      74
+    ]
+  },
+  "41": {
+    "node": 41,
+    "members": [
+      46
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "42": {
+    "node": 42,
+    "members": [
+      49
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "43": {
+    "node": 43,
+    "members": [
+      56,
+      84,
+      88
+    ],
+    "size": 3,
+    "radius": 0.10403453412330275,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005324899775737202,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021231699996860698,
+    "children": [
+      75,
+      76
+    ]
+  },
+  "44": {
+    "node": 44,
+    "members": [
+      59,
+      60
+    ],
+    "size": 2,
+    "radius": 0.09166423015093764,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01441079999494832,
+    "children": [
+      77,
+      78
+    ]
+  },
+  "45": {
+    "node": 45,
+    "members": [
+      61,
+      69,
+      70,
+      71,
+      75
+    ],
+    "size": 5,
+    "radius": 0.1097531030903431,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.008872368967103464,
+    "initial_pair": [
+      1,
+      4
+    ],
+    "seconds": 0.021936999997706152,
+    "children": [
+      79,
+      80
+    ]
+  },
+  "46": {
+    "node": 46,
+    "members": [
+      76,
+      77,
+      80,
+      81,
+      83,
+      85,
+      89,
+      90
+    ],
+    "size": 8,
+    "radius": 0.11355723108626194,
+    "initial_pairs": 28,
+    "unique_steps": 16,
+    "best_squared_distance": 0.010672482937940006,
+    "initial_pair": [
+      0,
+      6
+    ],
+    "seconds": 0.04299220000393689,
+    "children": [
+      81,
+      82
+    ]
+  },
+  "47": {
+    "node": 47,
+    "members": [
+      34,
+      73,
+      74,
+      78,
+      79,
+      82,
+      91,
+      109
+    ],
+    "size": 8,
+    "radius": 0.1140906899748911,
+    "initial_pairs": 28,
+    "unique_steps": 17,
+    "best_squared_distance": 0.010740356312027901,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.043843500010552816,
+    "children": [
+      83,
+      84
+    ]
+  },
+  "48": {
+    "node": 48,
+    "members": [
+      55,
+      58,
+      62,
+      65,
+      68,
+      87
+    ],
+    "size": 6,
+    "radius": 0.11748598270490578,
+    "initial_pairs": 15,
+    "unique_steps": 8,
+    "best_squared_distance": 0.010492889148509689,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.028863200001069345,
+    "children": [
+      85,
+      86
+    ]
+  },
+  "49": {
+    "node": 49,
+    "members": [
+      66,
+      67
+    ],
+    "size": 2,
+    "radius": 0.07941433390899627,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.014919299996108748,
+    "children": [
+      87,
+      88
+    ]
+  },
+  "50": {
+    "node": 50,
+    "members": [
+      98,
+      99
+    ],
+    "size": 2,
+    "radius": 0.08702460962407807,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.015092799992999062,
+    "children": [
+      89,
+      90
+    ]
+  },
+  "51": {
+    "node": 51,
+    "members": [
+      64,
+      93,
+      95,
+      97
+    ],
+    "size": 4,
+    "radius": 0.09845119830905827,
+    "initial_pairs": 6,
+    "unique_steps": 4,
+    "best_squared_distance": 0.006033052935088823,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.016764800006058067,
+    "children": [
+      91,
+      92
+    ]
+  },
+  "52": {
+    "node": 52,
+    "members": [
+      86,
+      92,
+      94,
+      96
+    ],
+    "size": 4,
+    "radius": 0.09794818389747818,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.005879940915870332,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.016401799992308952,
+    "children": [
+      93,
+      94
+    ]
+  },
+  "53": {
+    "node": 53,
+    "members": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "size": 4,
+    "radius": 0.09457812556062056,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.005776950054481346,
+    "initial_pair": [
+      0,
+      3
+    ],
+    "seconds": 0.027242600001045503,
+    "children": [
+      95,
+      96
+    ]
+  },
+  "54": {
+    "node": 54,
+    "members": [
+      108,
+      112,
+      113
+    ],
+    "size": 3,
+    "radius": 0.09505339513773536,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004041724584092536,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02233509998768568,
+    "children": [
+      97,
+      98
+    ]
+  },
+  "55": {
+    "node": 55,
+    "members": [
+      102
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "56": {
+    "node": 56,
+    "members": [
+      103
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "57": {
+    "node": 57,
+    "members": [
+      100,
+      101
+    ],
+    "size": 2,
+    "radius": 0.061379769403829776,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021713100009947084,
+    "children": [
+      99,
+      100
+    ]
+  },
+  "58": {
+    "node": 58,
+    "members": [
+      111
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "59": {
+    "node": 59,
+    "members": [
+      2,
+      3,
+      7,
+      8,
+      12,
+      14,
+      28
+    ],
+    "size": 7,
+    "radius": 0.11648813075444078,
+    "initial_pairs": 21,
+    "unique_steps": 13,
+    "best_squared_distance": 0.011065742102020193,
+    "initial_pair": [
+      1,
+      4
+    ],
+    "seconds": 0.03713360000983812,
+    "children": [
+      101,
+      102
+    ]
+  },
+  "60": {
+    "node": 60,
+    "members": [
+      5,
+      9,
+      10,
+      11,
+      15,
+      18,
+      19,
+      21,
+      22,
+      23
+    ],
+    "size": 10,
+    "radius": 0.12225029336979623,
+    "initial_pairs": 45,
+    "unique_steps": 29,
+    "best_squared_distance": 0.013034639196281445,
+    "initial_pair": [
+      0,
+      8
+    ],
+    "seconds": 0.06905260001076385,
+    "children": [
+      103,
+      104
+    ]
+  },
+  "61": {
+    "node": 61,
+    "members": [
+      47
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "62": {
+    "node": 62,
+    "members": [
+      51
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "63": {
+    "node": 63,
+    "members": [
+      50,
+      52
+    ],
+    "size": 2,
+    "radius": 0.08975754546183559,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021043599990662187,
+    "children": [
+      105,
+      106
+    ]
+  },
+  "64": {
+    "node": 64,
+    "members": [
+      54
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "65": {
+    "node": 65,
+    "members": [
+      1,
+      4,
+      6,
+      13
+    ],
+    "size": 4,
+    "radius": 0.1100482341436967,
+    "initial_pairs": 6,
+    "unique_steps": 5,
+    "best_squared_distance": 0.007922597119154233,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02453699999023229,
+    "children": [
+      107,
+      108
+    ]
+  },
+  "66": {
+    "node": 66,
+    "members": [
+      16,
+      20,
+      24,
+      25,
+      26,
+      29,
+      30,
+      32,
+      37
+    ],
+    "size": 9,
+    "radius": 0.11900893304070384,
+    "initial_pairs": 36,
+    "unique_steps": 25,
+    "best_squared_distance": 0.01218057039399082,
+    "initial_pair": [
+      1,
+      5
+    ],
+    "seconds": 0.07629339999402873,
+    "children": [
+      109,
+      110
+    ]
+  },
+  "67": {
+    "node": 67,
+    "members": [
+      17
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "68": {
+    "node": 68,
+    "members": [
+      38,
+      41,
+      42,
+      43,
+      44,
+      45,
+      48
+    ],
+    "size": 7,
+    "radius": 0.11732999015781628,
+    "initial_pairs": 21,
+    "unique_steps": 12,
+    "best_squared_distance": 0.011252492310426783,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02697539998916909,
+    "children": [
+      111,
+      112
+    ]
+  },
+  "69": {
+    "node": 69,
+    "members": [
+      57
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "70": {
+    "node": 70,
+    "members": [
+      72
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "71": {
+    "node": 71,
+    "members": [
+      27,
+      31,
+      33,
+      35
+    ],
+    "size": 4,
+    "radius": 0.10552868342204638,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.007125355903273676,
+    "initial_pair": [
+      0,
+      3
+    ],
+    "seconds": 0.0234344000054989,
+    "children": [
+      113,
+      114
+    ]
+  },
+  "72": {
+    "node": 72,
+    "members": [
+      36
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "73": {
+    "node": 73,
+    "members": [
+      39
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "74": {
+    "node": 74,
+    "members": [
+      40
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "75": {
+    "node": 75,
+    "members": [
+      56
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "76": {
+    "node": 76,
+    "members": [
+      84,
+      88
+    ],
+    "size": 2,
+    "radius": 0.08937197359130995,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01875550000113435,
+    "children": [
+      115,
+      116
+    ]
+  },
+  "77": {
+    "node": 77,
+    "members": [
+      59
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "78": {
+    "node": 78,
+    "members": [
+      60
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "79": {
+    "node": 79,
+    "members": [
+      61,
+      69,
+      70,
+      71
+    ],
+    "size": 4,
+    "radius": 0.10530186777120856,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.007216157610029453,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017571799995494075,
+    "children": [
+      117,
+      118
+    ]
+  },
+  "80": {
+    "node": 80,
+    "members": [
+      75
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "81": {
+    "node": 81,
+    "members": [
+      76,
+      77,
+      80,
+      81
+    ],
+    "size": 4,
+    "radius": 0.10216482029262572,
+    "initial_pairs": 6,
+    "unique_steps": 4,
+    "best_squared_distance": 0.006741049624836709,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.027599900000495836,
+    "children": [
+      119,
+      120
+    ]
+  },
+  "82": {
+    "node": 82,
+    "members": [
+      83,
+      85,
+      89,
+      90
+    ],
+    "size": 4,
+    "radius": 0.10440123333121665,
+    "initial_pairs": 6,
+    "unique_steps": 5,
+    "best_squared_distance": 0.007048066270281912,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02948179999657441,
+    "children": [
+      121,
+      122
+    ]
+  },
+  "83": {
+    "node": 83,
+    "members": [
+      34
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "84": {
+    "node": 84,
+    "members": [
+      73,
+      74,
+      78,
+      79,
+      82,
+      91,
+      109
+    ],
+    "size": 7,
+    "radius": 0.110753048582837,
+    "initial_pairs": 21,
+    "unique_steps": 12,
+    "best_squared_distance": 0.009954013872447908,
+    "initial_pair": [
+      0,
+      6
+    ],
+    "seconds": 0.019820900008198805,
+    "children": [
+      123,
+      124
+    ]
+  },
+  "85": {
+    "node": 85,
+    "members": [
+      55,
+      58,
+      87
+    ],
+    "size": 3,
+    "radius": 0.10669884319131479,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.0052171255228693585,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017814199993154034,
+    "children": [
+      125,
+      126
+    ]
+  },
+  "86": {
+    "node": 86,
+    "members": [
+      62,
+      65,
+      68
+    ],
+    "size": 3,
+    "radius": 0.09786640466089103,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.0043487144348452874,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02204830000118818,
+    "children": [
+      127,
+      128
+    ]
+  },
+  "87": {
+    "node": 87,
+    "members": [
+      66
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "88": {
+    "node": 88,
+    "members": [
+      67
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "89": {
+    "node": 89,
+    "members": [
+      98
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "90": {
+    "node": 90,
+    "members": [
+      99
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "91": {
+    "node": 91,
+    "members": [
+      64
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "92": {
+    "node": 92,
+    "members": [
+      93,
+      95,
+      97
+    ],
+    "size": 3,
+    "radius": 0.0895937448159595,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.003534147622915418,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.021040599996922538,
+    "children": [
+      129,
+      130
+    ]
+  },
+  "93": {
+    "node": 93,
+    "members": [
+      86,
+      92
+    ],
+    "size": 2,
+    "radius": 0.07532970092880133,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01772540000092704,
+    "children": [
+      131,
+      132
+    ]
+  },
+  "94": {
+    "node": 94,
+    "members": [
+      94,
+      96
+    ],
+    "size": 2,
+    "radius": 0.07800844819452578,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.019627600006060675,
+    "children": [
+      133,
+      134
+    ]
+  },
+  "95": {
+    "node": 95,
+    "members": [
+      104,
+      105,
+      106
+    ],
+    "size": 3,
+    "radius": 0.08774473764461944,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.0036419011531728766,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.020351200000732206,
+    "children": [
+      135,
+      136
+    ]
+  },
+  "96": {
+    "node": 96,
+    "members": [
+      107
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "97": {
+    "node": 97,
+    "members": [
+      108
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "98": {
+    "node": 98,
+    "members": [
+      112,
+      113
+    ],
+    "size": 2,
+    "radius": 0.07786261539493008,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.025940200008335523,
+    "children": [
+      137,
+      138
+    ]
+  },
+  "99": {
+    "node": 99,
+    "members": [
+      100
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "100": {
+    "node": 100,
+    "members": [
+      101
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "101": {
+    "node": 101,
+    "members": [
+      2,
+      3,
+      7,
+      8
+    ],
+    "size": 4,
+    "radius": 0.10702508949385786,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.007350093826794717,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02302659999986645,
+    "children": [
+      139,
+      140
+    ]
+  },
+  "102": {
+    "node": 102,
+    "members": [
+      12,
+      14,
+      28
+    ],
+    "size": 3,
+    "radius": 0.10267847537751218,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005244643715581316,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021073099997011013,
+    "children": [
+      141,
+      142
+    ]
+  },
+  "103": {
+    "node": 103,
+    "members": [
+      5,
+      9,
+      10,
+      15,
+      19
+    ],
+    "size": 5,
+    "radius": 0.113989152268456,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.009614836176420366,
+    "initial_pair": [
+      1,
+      4
+    ],
+    "seconds": 0.025546899996697903,
+    "children": [
+      143,
+      144
+    ]
+  },
+  "104": {
+    "node": 104,
+    "members": [
+      11,
+      18,
+      21,
+      22,
+      23
+    ],
+    "size": 5,
+    "radius": 0.11434213240295185,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.009543754235354375,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.02548900000692811,
+    "children": [
+      145,
+      146
+    ]
+  },
+  "105": {
+    "node": 105,
+    "members": [
+      50
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "106": {
+    "node": 106,
+    "members": [
+      52
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "107": {
+    "node": 107,
+    "members": [
+      1,
+      4
+    ],
+    "size": 2,
+    "radius": 0.08784251534342523,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02346399999805726,
+    "children": [
+      147,
+      148
+    ]
+  },
+  "108": {
+    "node": 108,
+    "members": [
+      6,
+      13
+    ],
+    "size": 2,
+    "radius": 0.09016033904355379,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.015196599997580051,
+    "children": [
+      149,
+      150
+    ]
+  },
+  "109": {
+    "node": 109,
+    "members": [
+      16,
+      20,
+      24,
+      25,
+      26,
+      37
+    ],
+    "size": 6,
+    "radius": 0.11409896354754057,
+    "initial_pairs": 15,
+    "unique_steps": 8,
+    "best_squared_distance": 0.01021795593139063,
+    "initial_pair": [
+      0,
+      5
+    ],
+    "seconds": 0.02371839999977965,
+    "children": [
+      151,
+      152
+    ]
+  },
+  "110": {
+    "node": 110,
+    "members": [
+      29,
+      30,
+      32
+    ],
+    "size": 3,
+    "radius": 0.10246151348607581,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005164323305255605,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01604580000275746,
+    "children": [
+      153,
+      154
+    ]
+  },
+  "111": {
+    "node": 111,
+    "members": [
+      38,
+      48
+    ],
+    "size": 2,
+    "radius": 0.08978309756544607,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01917719999619294,
+    "children": [
+      155,
+      156
+    ]
+  },
+  "112": {
+    "node": 112,
+    "members": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "size": 5,
+    "radius": 0.11192383393906775,
+    "initial_pairs": 10,
+    "unique_steps": 5,
+    "best_squared_distance": 0.009263187500679042,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.024017899995669723,
+    "children": [
+      157,
+      158
+    ]
+  },
+  "113": {
+    "node": 113,
+    "members": [
+      27,
+      31,
+      33
+    ],
+    "size": 3,
+    "radius": 0.09747015055166136,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004714660113145972,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02075199999671895,
+    "children": [
+      159,
+      160
+    ]
+  },
+  "114": {
+    "node": 114,
+    "members": [
+      35
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "115": {
+    "node": 115,
+    "members": [
+      84
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "116": {
+    "node": 116,
+    "members": [
+      88
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "117": {
+    "node": 117,
+    "members": [
+      61
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "118": {
+    "node": 118,
+    "members": [
+      69,
+      70,
+      71
+    ],
+    "size": 3,
+    "radius": 0.09807964886707143,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004632122727775415,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.021735000002081506,
+    "children": [
+      161,
+      162
+    ]
+  },
+  "119": {
+    "node": 119,
+    "members": [
+      76,
+      77,
+      81
+    ],
+    "size": 3,
+    "radius": 0.09479277765371023,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004369126468922289,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.0170427999983076,
+    "children": [
+      163,
+      164
+    ]
+  },
+  "120": {
+    "node": 120,
+    "members": [
+      80
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "121": {
+    "node": 121,
+    "members": [
+      83,
+      85
+    ],
+    "size": 2,
+    "radius": 0.08592249136991675,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.019120299999485724,
+    "children": [
+      165,
+      166
+    ]
+  },
+  "122": {
+    "node": 122,
+    "members": [
+      89,
+      90
+    ],
+    "size": 2,
+    "radius": 0.08193569440329658,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017883499996969476,
+    "children": [
+      167,
+      168
+    ]
+  },
+  "123": {
+    "node": 123,
+    "members": [
+      73,
+      74,
+      78,
+      79,
+      82,
+      91
+    ],
+    "size": 6,
+    "radius": 0.10775834760052753,
+    "initial_pairs": 15,
+    "unique_steps": 9,
+    "best_squared_distance": 0.00903421162885359,
+    "initial_pair": [
+      0,
+      3
+    ],
+    "seconds": 0.040837599997757934,
+    "children": [
+      169,
+      170
+    ]
+  },
+  "124": {
+    "node": 124,
+    "members": [
+      109
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "125": {
+    "node": 125,
+    "members": [
+      55,
+      87
+    ],
+    "size": 2,
+    "radius": 0.08846292039212836,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01548719999846071,
+    "children": [
+      171,
+      172
+    ]
+  },
+  "126": {
+    "node": 126,
+    "members": [
+      58
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "127": {
+    "node": 127,
+    "members": [
+      62,
+      68
+    ],
+    "size": 2,
+    "radius": 0.08076553505219866,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.013351199988392182,
+    "children": [
+      173,
+      174
+    ]
+  },
+  "128": {
+    "node": 128,
+    "members": [
+      65
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "129": {
+    "node": 129,
+    "members": [
+      93,
+      95
+    ],
+    "size": 2,
+    "radius": 0.0728094872552549,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017603100000997074,
+    "children": [
+      175,
+      176
+    ]
+  },
+  "130": {
+    "node": 130,
+    "members": [
+      97
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "131": {
+    "node": 131,
+    "members": [
+      86
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "132": {
+    "node": 132,
+    "members": [
+      92
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "133": {
+    "node": 133,
+    "members": [
+      94
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "134": {
+    "node": 134,
+    "members": [
+      96
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "135": {
+    "node": 135,
+    "members": [
+      104,
+      105
+    ],
+    "size": 2,
+    "radius": 0.07391110694448647,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.009889200009638444,
+    "children": [
+      177,
+      178
+    ]
+  },
+  "136": {
+    "node": 136,
+    "members": [
+      106
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "137": {
+    "node": 137,
+    "members": [
+      112
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "138": {
+    "node": 138,
+    "members": [
+      113
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "139": {
+    "node": 139,
+    "members": [
+      2,
+      3
+    ],
+    "size": 2,
+    "radius": 0.08664353813887804,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.026326300008804537,
+    "children": [
+      179,
+      180
+    ]
+  },
+  "140": {
+    "node": 140,
+    "members": [
+      7,
+      8
+    ],
+    "size": 2,
+    "radius": 0.08481205664506798,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.024613600005977787,
+    "children": [
+      181,
+      182
+    ]
+  },
+  "141": {
+    "node": 141,
+    "members": [
+      12,
+      28
+    ],
+    "size": 2,
+    "radius": 0.08869591632861105,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.012796400013030507,
+    "children": [
+      183,
+      184
+    ]
+  },
+  "142": {
+    "node": 142,
+    "members": [
+      14
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "143": {
+    "node": 143,
+    "members": [
+      5,
+      9,
+      10
+    ],
+    "size": 3,
+    "radius": 0.10338147038394958,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005241446380790393,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.013669599997228943,
+    "children": [
+      185,
+      186
+    ]
+  },
+  "144": {
+    "node": 144,
+    "members": [
+      15,
+      19
+    ],
+    "size": 2,
+    "radius": 0.08946769148080579,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01184540000394918,
+    "children": [
+      187,
+      188
+    ]
+  },
+  "145": {
+    "node": 145,
+    "members": [
+      11,
+      18
+    ],
+    "size": 2,
+    "radius": 0.08879870735820777,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.013177400003769435,
+    "children": [
+      189,
+      190
+    ]
+  },
+  "146": {
+    "node": 146,
+    "members": [
+      21,
+      22,
+      23
+    ],
+    "size": 3,
+    "radius": 0.10319124831159199,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005169844308317754,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.014137599995592609,
+    "children": [
+      191,
+      192
+    ]
+  },
+  "147": {
+    "node": 147,
+    "members": [
+      1
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "148": {
+    "node": 148,
+    "members": [
+      4
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "149": {
+    "node": 149,
+    "members": [
+      6
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "150": {
+    "node": 150,
+    "members": [
+      13
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "151": {
+    "node": 151,
+    "members": [
+      16,
+      20,
+      24,
+      26
+    ],
+    "size": 4,
+    "radius": 0.10684164542246742,
+    "initial_pairs": 6,
+    "unique_steps": 3,
+    "best_squared_distance": 0.0075293115716674386,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.01728240000375081,
+    "children": [
+      193,
+      194
+    ]
+  },
+  "152": {
+    "node": 152,
+    "members": [
+      25,
+      37
+    ],
+    "size": 2,
+    "radius": 0.08844520440441798,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02437929999723565,
+    "children": [
+      195,
+      196
+    ]
+  },
+  "153": {
+    "node": 153,
+    "members": [
+      29
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "154": {
+    "node": 154,
+    "members": [
+      30,
+      32
+    ],
+    "size": 2,
+    "radius": 0.0880141179464034,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.02639420000195969,
+    "children": [
+      197,
+      198
+    ]
+  },
+  "155": {
+    "node": 155,
+    "members": [
+      38
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "156": {
+    "node": 156,
+    "members": [
+      48
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "157": {
+    "node": 157,
+    "members": [
+      41,
+      42,
+      45
+    ],
+    "size": 3,
+    "radius": 0.1024177810193706,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.005119625364498952,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.025710300003993325,
+    "children": [
+      199,
+      200
+    ]
+  },
+  "158": {
+    "node": 158,
+    "members": [
+      43,
+      44
+    ],
+    "size": 2,
+    "radius": 0.08614357052911835,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.023497299989685416,
+    "children": [
+      201,
+      202
+    ]
+  },
+  "159": {
+    "node": 159,
+    "members": [
+      27,
+      33
+    ],
+    "size": 2,
+    "radius": 0.08409512571914592,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017907999994349666,
+    "children": [
+      203,
+      204
+    ]
+  },
+  "160": {
+    "node": 160,
+    "members": [
+      31
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "161": {
+    "node": 161,
+    "members": [
+      69,
+      70
+    ],
+    "size": 2,
+    "radius": 0.08335576819670684,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01598329999251291,
+    "children": [
+      205,
+      206
+    ]
+  },
+  "162": {
+    "node": 162,
+    "members": [
+      71
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "163": {
+    "node": 163,
+    "members": [
+      76,
+      77
+    ],
+    "size": 2,
+    "radius": 0.08095486213553472,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.013178499997593462,
+    "children": [
+      207,
+      208
+    ]
+  },
+  "164": {
+    "node": 164,
+    "members": [
+      81
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "165": {
+    "node": 165,
+    "members": [
+      83
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "166": {
+    "node": 166,
+    "members": [
+      85
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "167": {
+    "node": 167,
+    "members": [
+      89
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "168": {
+    "node": 168,
+    "members": [
+      90
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "169": {
+    "node": 169,
+    "members": [
+      73,
+      74,
+      91
+    ],
+    "size": 3,
+    "radius": 0.09444793296197333,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.00414965298920887,
+    "initial_pair": [
+      0,
+      2
+    ],
+    "seconds": 0.025998500001151115,
+    "children": [
+      209,
+      210
+    ]
+  },
+  "170": {
+    "node": 170,
+    "members": [
+      78,
+      79,
+      82
+    ],
+    "size": 3,
+    "radius": 0.09561103781105995,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004485453674407073,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021017599996412173,
+    "children": [
+      211,
+      212
+    ]
+  },
+  "171": {
+    "node": 171,
+    "members": [
+      55
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "172": {
+    "node": 172,
+    "members": [
+      87
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "173": {
+    "node": 173,
+    "members": [
+      62
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "174": {
+    "node": 174,
+    "members": [
+      68
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "175": {
+    "node": 175,
+    "members": [
+      93
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "176": {
+    "node": 176,
+    "members": [
+      95
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "177": {
+    "node": 177,
+    "members": [
+      104
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "178": {
+    "node": 178,
+    "members": [
+      105
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "179": {
+    "node": 179,
+    "members": [
+      2
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "180": {
+    "node": 180,
+    "members": [
+      3
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "181": {
+    "node": 181,
+    "members": [
+      7
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "182": {
+    "node": 182,
+    "members": [
+      8
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "183": {
+    "node": 183,
+    "members": [
+      12
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "184": {
+    "node": 184,
+    "members": [
+      28
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "185": {
+    "node": 185,
+    "members": [
+      5
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "186": {
+    "node": 186,
+    "members": [
+      9,
+      10
+    ],
+    "size": 2,
+    "radius": 0.0886688760004636,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.017104799990192987,
+    "children": [
+      213,
+      214
+    ]
+  },
+  "187": {
+    "node": 187,
+    "members": [
+      15
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "188": {
+    "node": 188,
+    "members": [
+      19
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "189": {
+    "node": 189,
+    "members": [
+      11
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "190": {
+    "node": 190,
+    "members": [
+      18
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "191": {
+    "node": 191,
+    "members": [
+      21,
+      22
+    ],
+    "size": 2,
+    "radius": 0.088061151834828,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01798620000772644,
+    "children": [
+      215,
+      216
+    ]
+  },
+  "192": {
+    "node": 192,
+    "members": [
+      23
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "193": {
+    "node": 193,
+    "members": [
+      16
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "194": {
+    "node": 194,
+    "members": [
+      20,
+      24,
+      26
+    ],
+    "size": 3,
+    "radius": 0.10019435488487438,
+    "initial_pairs": 3,
+    "unique_steps": 2,
+    "best_squared_distance": 0.004950573534931435,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.021009000003687106,
+    "children": [
+      217,
+      218
+    ]
+  },
+  "195": {
+    "node": 195,
+    "members": [
+      25
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "196": {
+    "node": 196,
+    "members": [
+      37
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "197": {
+    "node": 197,
+    "members": [
+      30
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "198": {
+    "node": 198,
+    "members": [
+      32
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "199": {
+    "node": 199,
+    "members": [
+      41,
+      45
+    ],
+    "size": 2,
+    "radius": 0.08763240294975613,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.020378799992613494,
+    "children": [
+      219,
+      220
+    ]
+  },
+  "200": {
+    "node": 200,
+    "members": [
+      42
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "201": {
+    "node": 201,
+    "members": [
+      43
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "202": {
+    "node": 202,
+    "members": [
+      44
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "203": {
+    "node": 203,
+    "members": [
+      27
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "204": {
+    "node": 204,
+    "members": [
+      33
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "205": {
+    "node": 205,
+    "members": [
+      69
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "206": {
+    "node": 206,
+    "members": [
+      70
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "207": {
+    "node": 207,
+    "members": [
+      76
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "208": {
+    "node": 208,
+    "members": [
+      77
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "209": {
+    "node": 209,
+    "members": [
+      73,
+      74
+    ],
+    "size": 2,
+    "radius": 0.07889537048403604,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.01710349999484606,
+    "children": [
+      221,
+      222
+    ]
+  },
+  "210": {
+    "node": 210,
+    "members": [
+      91
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "211": {
+    "node": 211,
+    "members": [
+      78
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "212": {
+    "node": 212,
+    "members": [
+      79,
+      82
+    ],
+    "size": 2,
+    "radius": 0.08202548696356889,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.019431699998676777,
+    "children": [
+      223,
+      224
+    ]
+  },
+  "213": {
+    "node": 213,
+    "members": [
+      9
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "214": {
+    "node": 214,
+    "members": [
+      10
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "215": {
+    "node": 215,
+    "members": [
+      21
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "216": {
+    "node": 216,
+    "members": [
+      22
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "217": {
+    "node": 217,
+    "members": [
+      20
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "218": {
+    "node": 218,
+    "members": [
+      24,
+      26
+    ],
+    "size": 2,
+    "radius": 0.08617343153430268,
+    "initial_pairs": 1,
+    "unique_steps": 1,
+    "best_squared_distance": 0.0,
+    "initial_pair": [
+      0,
+      1
+    ],
+    "seconds": 0.023116399999707937,
+    "children": [
+      225,
+      226
+    ]
+  },
+  "219": {
+    "node": 219,
+    "members": [
+      41
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "220": {
+    "node": 220,
+    "members": [
+      45
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "221": {
+    "node": 221,
+    "members": [
+      73
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "222": {
+    "node": 222,
+    "members": [
+      74
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "223": {
+    "node": 223,
+    "members": [
+      79
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "224": {
+    "node": 224,
+    "members": [
+      82
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "225": {
+    "node": 225,
+    "members": [
+      24
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  },
+  "226": {
+    "node": 226,
+    "members": [
+      26
+    ],
+    "size": 1,
+    "radius": 0.0,
+    "children": []
+  }
+}
