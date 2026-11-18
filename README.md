@@ -1,5 +1,7 @@
 # Identifying financial market states
 
+The full research write-up is available as a [PDF report](research_report/market_states_report.pdf), with its [LaTeX source](research_report/main.tex) and bundled figures for rebuilding.
+
 An independent Python reproduction and extension of the correlation based market state analysis in [Münnix et al., *Identifying States of a Financial Market* (Scientific Reports, 2012)](https://www.nature.com/articles/srep00644). This project cleans daily stock prices, builds market correlation matrices, groups time windows into states, and examines how those states change around periods of stress.
 
 **Portfolio snapshot:** 300 stock files across 10 sectors were audited; 297 complete history stocks entered the default disjoint window analysis. The published threshold of `0.1465` produced **2 states** on the supplied dataset. A threshold calibrated on these data, `0.1301746`, produced **8 states** for comparison. The eight state result is a sensitivity analysis, not a reproduction of the paper's eight states at its published threshold.
